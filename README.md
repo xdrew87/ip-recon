@@ -31,6 +31,7 @@ by [xdrew87](https://github.com/xdrew87)
 FOR AUTHORIZED USE ONLY
 
 This IP Recon tool is intended strictly for:
+
 	•	Testing your own IPs or networks
 	•	Educational purposes, OSINT research, and learning cybersecurity
 	•	Demonstrations in safe, public environments (e.g., public DNS like 8.8.8.8)
