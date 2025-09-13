@@ -119,5 +119,3 @@ See the LICENSE file for details.
 ---
 
 **Made with ❤️ by [xdrew87](https://github.com/xdrew87)**
-**Made with ❤️ by [xdrew87](https://github.com/xdrew87)**
-
