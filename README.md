@@ -28,16 +28,14 @@ by [xdrew87](https://github.com/xdrew87)
 
 ## 🚨 LEGAL DISCLAIMER
 
-**FOR AUTHORIZED USE ONLY**
+FOR AUTHORIZED USE ONLY
 
-This tool is intended exclusively for:
+This IP Recon tool is intended strictly for:
+	•	Testing your own IPs or networks
+	•	Educational purposes, OSINT research, and learning cybersecurity
+	•	Demonstrations in safe, public environments (e.g., public DNS like 8.8.8.8)
 
-- Testing your own infrastructure
-- Authorized penetration testing with written permission
-- Educational and research purposes in controlled environments
-
-Unauthorized use against systems you don't own is illegal and may result in criminal prosecution. The developers assume no responsibility for misuse of this software.
-
+Do not use this tool against systems you do not own or have explicit permission to test. Misuse may be illegal and could lead to criminal prosecution. The developers are not responsible for unauthorized use.
 ---
 
 ## ✨ Features
