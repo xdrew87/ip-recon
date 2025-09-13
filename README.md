@@ -66,7 +66,7 @@ Copy and paste these commands in your terminal:
 
 ```bash
 git clone https://github.com/xdrew87/ip-recon.git
-cd zzzz
+cd ip-recon
 pip install rich requests
 ```
 
@@ -75,7 +75,7 @@ pip install rich requests
 ## 🛠️ Usage
 
 ```bash
-python3 ip_recon.py -i 1.1.1.1
+python3 ip_recon.py -i 8.8.8.8
 python3 ip_recon.py -i 8.8.8.8 --log
 ```
 
