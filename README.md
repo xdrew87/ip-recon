@@ -65,7 +65,7 @@ Unauthorized use against systems you don't own is illegal and may result in crim
 Copy and paste these commands in your terminal:
 
 ```bash
-git clone https://github.com/xdrew87/zzzz.git
+git clone https://github.com/xdrew87/ip-recon.git
 cd zzzz
 pip install rich requests
 ```
@@ -86,7 +86,7 @@ python3 ip_recon.py -i 8.8.8.8 --log
 
 ## 📋 Example Output
 
-![example](https://raw.githubusercontent.com/xdrew87/suicixdalEXE/main/zzzz/example.png)
+![example] <img width="1897" height="879" alt="Screenshot 2025-09-13 174738" src="https://github.com/user-attachments/assets/47a28f4b-293d-4c88-98c8-186f4a2f4df3" />
 
 ---
 
@@ -120,3 +120,4 @@ See the LICENSE file for details.
 
 **Made with ❤️ by [xdrew87](https://github.com/xdrew87)**
 **Made with ❤️ by [xdrew87](https://github.com/xdrew87)**
+
